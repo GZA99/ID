@@ -151,6 +151,8 @@ pip2 install mechanize
 echo -e $red"========================="
 echo -e $w"    menginstall python2  "
 echo -e $red"========================="
+echo $w""
+sleep 3
 pkg install python2 
 figlet -c "SELESAI" | lolcat
 sleep 5
