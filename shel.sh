@@ -95,7 +95,7 @@ echo -e "${y} Installer RED_HAWK..."
 echo -e "${y} cd RED_HAWK"
 echo -e "${y} php RED_HAWK.php"
 cd RED_HAWK
-pkg install PHP -y
+pkg install php -y
 echo -e ". Penginstalan selesai tuan" $L
 sleep 1
 php rhawk.php
