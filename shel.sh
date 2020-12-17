@@ -26,7 +26,7 @@ clear
 sleep 1
 $logo
 echo -e $blue"_____________________________________"
-echo -e $g"EMAIL"$w"="$c"ghali.zul.08@gmail.com"
+echo -e $g"EMAIL"$w"="$c"GOOGLE BANYAK !"
 echo -e $g"AUTHOR"$w"="$c"GZA99"
 echo -e $g"GITHUB"$w"="$c"GZA99"
 echo -e $blue"_____________________________________"
@@ -109,12 +109,7 @@ git clone http://github.com/cyweb/hammer
 pkg install w3m -y
 pkg install python
 cd hammer
-echo -e "______________________________________________"
-echo -e "lihat tutor menggunakan hammer di bawah ya tuan" $L 
-echo -e "setelah melihat tutornya tekan ls ya tuan" $L
-echo -e "______________________________________________"
-sleep 10
-w3m https://amarnehwoy.blogspot.com/2018/01/assalammualaikum-wr-wb-selamat-pagi.html?m=1
+ls
 
 ;;
 
